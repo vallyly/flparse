@@ -1,6 +1,4 @@
-# flparse
-
-A small utility which gathers infomation about a .flp file.
+# Usage:
 
 
 	C:\! unsorted\HB\flparse>flparse.py "C:\Users\Administrator\Documents\Image-Line\FL Studio\Projects\test.flp"
